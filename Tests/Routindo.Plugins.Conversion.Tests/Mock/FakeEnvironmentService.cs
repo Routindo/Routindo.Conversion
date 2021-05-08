@@ -1,6 +1,6 @@
 ﻿using Routindo.Contract.Services;
 
-namespace Routindo.Plugins.Template.Tests.Mock
+namespace Routindo.Plugins.Conversion.Tests.Mock
 {
     public class FakeEnvironmentService: IEnvironmentService
     {

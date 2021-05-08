@@ -1,6 +1,6 @@
-# Routindo Plugin Template
+# Routindo Plugin Conversion
 
-![Routindo Plugin Template](https://github.com/Routindo/Routindo.PluginTemplate/blob/main/Source/Routindo.Plugins.Template/icon.png)
+![Routindo Plugin Conversion](https://github.com/Routindo/Routindo.PluginConversion/blob/main/Source/Routindo.Plugins.Conversion/icon.png)
 - [Project Page](https://routindo.com/docs/plugins-development/) 
 - [Documentation](https://routindo.com/docs/plugins-development/) 
 - Please Ask Support on the [official Forums](https://routindo.com/support/forum/?view=forum&id=16). 

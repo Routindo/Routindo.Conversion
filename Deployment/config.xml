@@ -8,14 +8,14 @@
 		<Setting Key="PluginsBuilder" Value="../../../Deployment/PluginsBuilder.CLI/Routindo.PluginsBuilder.CLI.exe" />
 	</Settings>
 	<Projects>
-		<Project Order="1" Name="Template.Components" Share="False" Pack="False" SelfContained="False"
-		Directory="Routindo.Plugins.Template.Components" File="Routindo.Plugins.Template.Components.csproj" DeploymentDir="Routindo.Template" CleanDeploymentDir="True"/>
+		<Project Order="1" Name="Conversion.Components" Share="False" Pack="False" SelfContained="False"
+		Directory="Routindo.Plugins.Conversion.Components" File="Routindo.Plugins.Conversion.Components.csproj" DeploymentDir="Routindo.Conversion" CleanDeploymentDir="True"/>
 		
-		<Project Order="2" Name="Template.UI" Share="False" Pack="False" SelfContained="False"
-		Directory="Routindo.Plugins.Template.UI" File="Routindo.Plugins.Template.UI.csproj" DeploymentDir="Routindo.Template" CleanDeploymentDir="False"/>
+		<Project Order="2" Name="Conversion.UI" Share="False" Pack="False" SelfContained="False"
+		Directory="Routindo.Plugins.Conversion.UI" File="Routindo.Plugins.Conversion.UI.csproj" DeploymentDir="Routindo.Conversion" CleanDeploymentDir="False"/>
 		
-		<Project Order="3" Name="Template" Share="False" Pack="True" SelfContained="False"
-		Directory="Routindo.Plugins.Template" File="Routindo.Plugins.Template.csproj" DeploymentDir="Routindo.Template" CleanDeploymentDir="False"/>
+		<Project Order="3" Name="Conversion" Share="False" Pack="True" SelfContained="False"
+		Directory="Routindo.Plugins.Conversion" File="Routindo.Plugins.Conversion.csproj" DeploymentDir="Routindo.Conversion" CleanDeploymentDir="False"/>
 		
 	</Projects>
 	<Dependencies>

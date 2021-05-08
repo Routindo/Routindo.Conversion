@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Routindo.Plugins.Template.UI\Routindo.Plugins.Template.UI.csproj" />
+    <ProjectReference Include="..\Routindo.Plugins.Conversion.UI\Routindo.Plugins.Conversion.UI.csproj" />
   </ItemGroup>
 
   <ItemGroup>

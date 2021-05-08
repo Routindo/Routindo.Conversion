@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Routindo.Contract.Services;
-using Routindo.Plugins.Template.Tests.Mock;
+using Routindo.Plugins.Conversion.Tests.Mock;
 
-namespace Routindo.Plugins.Template.Tests
+namespace Routindo.Plugins.Conversion.Tests
 {
     [TestClass]
     public class TestAssemblyInit 

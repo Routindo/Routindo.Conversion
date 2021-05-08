@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Routindo.Plugins.Template.UI.Preview
+namespace Routindo.Plugins.Conversion.UI.Preview
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

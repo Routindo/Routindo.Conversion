@@ -1,8 +1,8 @@
-# Routindo Plugin Conversion
+# Routindo Conversion Plugin 
 
-![Routindo Plugin Conversion](https://github.com/Routindo/Routindo.PluginConversion/blob/main/Source/Routindo.Plugins.Conversion/icon.png)
-- [Project Page](https://routindo.com/docs/plugins-development/) 
-- [Documentation](https://routindo.com/docs/plugins-development/) 
+![Routindo Conversion Plugin](https://github.com/Routindo/Routindo.Conversion/blob/main/Source/Routindo.Plugins.Conversion/icon.png)
+- [Project Page](https://routindo.com/conversion/) 
+- [Documentation](https://routindo.com/docs/conversion/) 
 - Please Ask Support on the [official Forums](https://routindo.com/support/forum/?view=forum&id=16). 
 
 # This is a [Routindo](https://routindo.com) Plugin! 
